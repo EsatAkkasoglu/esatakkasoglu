@@ -5,6 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=esatakkasoglu" alt="esatakkasoglu" /></a> </p>
 
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif">
 - 🔭 I’m currently working on **AstroBot**
 
 - 🌱 I’m currently learning **AstroML**
